@@ -33,7 +33,7 @@ Wide digital logic schematic strip with registers, title block at bottom right.
 - **Dots (junctions):** 4
 - **Wiring (first pass):** 42 connected wire groups from 706 runs
 
-Every curve, box, word and wire group: [19xx - 741-02-001 - REGISTER BOARD SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20741-02-001%20-%20REGISTER%20BOARD%20SCHEMATIC%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 741-02-001 - REGISTER BOARD SCHEMATIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 741-02-001 - REGISTER BOARD SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20741-02-001%20-%20REGISTER%20BOARD%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 741-02-001 - REGISTER BOARD SCHEMATIC - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -34,7 +34,7 @@ Wiki page: [M741](../../../../PAGES/M741.md)
 - **Title block:** (361, 20)–(432, 30) mm: WBS WARD BeCK BysteMB
 - **Wiring (first pass):** 32 connected wire groups from 342 runs; labelled ends: 378 mm → USLD 0 ", WBS, WARD; 253 mm → L L, 20 >; 77 mm → ce eso/sv, 930/6v; 73 mm → 930/6v, ce eso/sv; 32 mm → L4, 7442
 
-Every curve, box, word and wire group: [1973 - 741-02-002 - M741A REGISTER MODULE SCHEMATIC - DRN PC (traced).json](../SCHEMATICS/1973%20-%20741-02-002%20-%20M741A%20REGISTER%20MODULE%20SCHEMATIC%20-%20DRN%20PC%20(traced).json) (the CAD file: `1973 - 741-02-002 - M741A REGISTER MODULE SCHEMATIC - DRN PC (traced).dxf`).
+Every curve, box, word and wire group: [1973 - 741-02-002 - M741A REGISTER MODULE SCHEMATIC - DRN PC (traced).json](../SCHEMATICS/1973%20-%20741-02-002%20-%20M741A%20REGISTER%20MODULE%20SCHEMATIC%20-%20DRN%20PC%20%28traced%29.json) (the CAD file: `1973 - 741-02-002 - M741A REGISTER MODULE SCHEMATIC - DRN PC (traced).dxf`).
 
 ## Full text
 
