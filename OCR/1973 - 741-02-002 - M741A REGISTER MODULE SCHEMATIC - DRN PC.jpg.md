@@ -1,5 +1,5 @@
 # 1973 - 741-02-002 - M741A REGISTER MODULE SCHEMATIC - DRN PC.jpg
-Wiki page: [M741](../../../../PAGES/M741.md)
+Wiki page: [M741](../)
 
 
 - **Year:** 1973 (title block date)

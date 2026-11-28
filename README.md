@@ -1,6 +1,6 @@
 # M741 Register Module · Communication
 
-Ward-Beck Systems M741, 1973|6. Wiki page: [M741 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M741.html)
+Ward-Beck Systems M741, 1973|6. Wiki page: [M741 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M741-Register-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

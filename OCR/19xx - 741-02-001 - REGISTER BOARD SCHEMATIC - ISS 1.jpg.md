@@ -1,5 +1,5 @@
 # 19xx - 741-02-001 - REGISTER BOARD SCHEMATIC - ISS 1.jpg
-Wiki page: [M741](../../../../PAGES/M741.md)
+Wiki page: [M741](../)
 
 
 - **Year:** unknown (title block (read by eye))
